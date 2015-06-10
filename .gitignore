@@ -1,0 +1,12 @@
+*.*.swp
+*.swp
+logs
+target
+test
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+LICENSE
